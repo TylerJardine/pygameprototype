@@ -27,4 +27,4 @@ screen.fill(BLACK)
 
 #create sprite
 player_rect = pygame.Rect(WIDTH // 2, HEIGHT // 1, 30, 30)
-coin_circl = pygame.Circle(WIDTH // 2, HEIGHT // 5, 10, 10)
+coin_circl = pygame.Rect(WIDTH // 2, HEIGHT // 5, 10, 10)
