@@ -12,7 +12,7 @@ pygame.display.set_caption("Money Grab Game Jam")
 clock = pygame.time.Clock()
 
 # Colors
-WHITE = (255, 255, 255)
+WHITE = (150, 255, 255)
 GRAY = (100, 100, 100)
 
 # Floor (background rectangle)
